@@ -130,6 +130,10 @@ p {
 		order: 99;
 	}
 
+	.main-menu--landing-page {
+		order: 0;
+	}
+
 	.main-menu__image-container {
 	    width: 100px;
 	    margin-left: -50px;
