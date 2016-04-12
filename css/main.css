@@ -88,14 +88,25 @@ p {
 }
 
 .section__image--landing-page {
-	width: 200px;
+	width: 100px;
 	border-radius: 0;
 }
 
 .section__text {
 	font-size: 1rem;
 	font-weight: normal;
-	line-height: 2;
+	line-height: 1.5;
+}
+
+.section_text_email-link {
+	font-weight: bold
+}
+
+.section__contact {
+	width: 500px;
+    left: 50%;
+    position: relative;
+    margin-left: -250px;
 }
 
 .contact-form {
@@ -156,6 +167,13 @@ p {
 	.section {
 		padding: 2rem;
 	}
+
+	.section__contact {
+		width: auto;
+	    left: auto;
+	    position: static;
+	    margin-left: 0;
+}
 
 
 }
