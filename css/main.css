@@ -47,9 +47,8 @@ p {
 	flex-basis: 100%;
 }
 
-.top-bar__heading {
-	padding: 0.7rem 1rem;
-	letter-spacing: 0.1rem;
+.top-bar__tagline {
+	display: block;
 }
 
 .main-menu__image-container {
