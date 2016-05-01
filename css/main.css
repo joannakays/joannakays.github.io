@@ -43,7 +43,7 @@ p {
 
 .top-bar, .main-menu, .section {
 	padding: 0.5rem;
-	border-bottom: 1px solid rgba(10,10,10,.25);
+	border-bottom: 0px solid rgba(10,10,10,.25);
 	flex-basis: 100%;
 }
 
